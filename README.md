@@ -7,3 +7,6 @@ Borjan Dimeski 236011
 4. ![image](https://github.com/user-attachments/assets/e44ab71f-2713-41d0-9184-49d71a4489cd)
 Еве слика од тест случаите и кои линии на код ќе се извршат со истите.
 потребно е минимум 5 за да се стигнат сите exit статементс во кодот.
+
+5. TXX FTX FFT FFF ова се сите можни случаи и 4 е минималниот број тестови да се опфатат сите.
+![image](https://github.com/user-attachments/assets/b116ead4-2380-4823-978c-34c88ecf47fd)
